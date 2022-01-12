@@ -1,0 +1,20 @@
+C:\Users\AbednegoPad\AppData\Local\Temporary Projects\A3-KamusPanda\bin\Debug\A3-KamusPanda.exe
+C:\Users\AbednegoPad\AppData\Local\Temporary Projects\A3-KamusPanda\bin\Debug\A3-KamusPanda.pdb
+C:\Users\AbednegoPad\AppData\Local\Temporary Projects\A3-KamusPanda\bin\Debug\A3-KamusPanda.xml
+C:\Users\AbednegoPad\AppData\Local\Temporary Projects\A3-KamusPanda\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\AbednegoPad\AppData\Local\Temporary Projects\A3-KamusPanda\obj\Debug\A3_KamusPanda.Form1.resources
+C:\Users\AbednegoPad\AppData\Local\Temporary Projects\A3-KamusPanda\obj\Debug\A3_KamusPanda.Resources.resources
+C:\Users\AbednegoPad\AppData\Local\Temporary Projects\A3-KamusPanda\obj\Debug\A3-KamusPanda.vbproj.GenerateResource.Cache
+C:\Users\AbednegoPad\AppData\Local\Temporary Projects\A3-KamusPanda\obj\Debug\A3-KamusPanda.exe
+C:\Users\AbednegoPad\AppData\Local\Temporary Projects\A3-KamusPanda\obj\Debug\A3-KamusPanda.xml
+C:\Users\AbednegoPad\AppData\Local\Temporary Projects\A3-KamusPanda\obj\Debug\A3-KamusPanda.pdb
+C:\Users\AbednegoPad\Documents\Visual Studio 2008\Projects\A3-KamusPanda\A3-KamusPanda\obj\Debug\A3-KamusPanda.exe
+C:\Users\AbednegoPad\Documents\Visual Studio 2008\Projects\A3-KamusPanda\A3-KamusPanda\obj\Debug\A3-KamusPanda.xml
+C:\Users\AbednegoPad\Documents\Visual Studio 2008\Projects\A3-KamusPanda\A3-KamusPanda\obj\Debug\A3-KamusPanda.pdb
+C:\Users\AbednegoPad\Documents\Visual Studio 2008\Projects\A3-KamusPanda\A3-KamusPanda\bin\Debug\A3-KamusPanda.exe
+C:\Users\AbednegoPad\Documents\Visual Studio 2008\Projects\A3-KamusPanda\A3-KamusPanda\bin\Debug\A3-KamusPanda.pdb
+C:\Users\AbednegoPad\Documents\Visual Studio 2008\Projects\A3-KamusPanda\A3-KamusPanda\bin\Debug\A3-KamusPanda.xml
+C:\Users\AbednegoPad\Documents\Visual Studio 2008\Projects\A3-KamusPanda\A3-KamusPanda\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\AbednegoPad\Documents\Visual Studio 2008\Projects\A3-KamusPanda\A3-KamusPanda\obj\Debug\A3_KamusPanda.Form1.resources
+C:\Users\AbednegoPad\Documents\Visual Studio 2008\Projects\A3-KamusPanda\A3-KamusPanda\obj\Debug\A3_KamusPanda.Resources.resources
+C:\Users\AbednegoPad\Documents\Visual Studio 2008\Projects\A3-KamusPanda\A3-KamusPanda\obj\Debug\A3-KamusPanda.vbproj.GenerateResource.Cache

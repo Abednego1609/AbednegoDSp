@@ -1,0 +1,20 @@
+C:\Users\AbednegoPad\AppData\Local\Temporary Projects\A2-Sortir\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\AbednegoPad\AppData\Local\Temporary Projects\A2-Sortir\obj\Debug\A2_Sortir.Form1.resources
+C:\Users\AbednegoPad\AppData\Local\Temporary Projects\A2-Sortir\obj\Debug\A2_Sortir.Resources.resources
+C:\Users\AbednegoPad\AppData\Local\Temporary Projects\A2-Sortir\obj\Debug\A2-Sortir.vbproj.GenerateResource.Cache
+C:\Users\AbednegoPad\AppData\Local\Temporary Projects\A2-Sortir\bin\Debug\A2-Sortir.exe
+C:\Users\AbednegoPad\AppData\Local\Temporary Projects\A2-Sortir\bin\Debug\A2-Sortir.pdb
+C:\Users\AbednegoPad\AppData\Local\Temporary Projects\A2-Sortir\bin\Debug\A2-Sortir.xml
+C:\Users\AbednegoPad\AppData\Local\Temporary Projects\A2-Sortir\obj\Debug\A2-Sortir.exe
+C:\Users\AbednegoPad\AppData\Local\Temporary Projects\A2-Sortir\obj\Debug\A2-Sortir.xml
+C:\Users\AbednegoPad\AppData\Local\Temporary Projects\A2-Sortir\obj\Debug\A2-Sortir.pdb
+C:\Users\AbednegoPad\Documents\Visual Studio 2008\Projects\A2-Sortir\A2-Sortir\obj\Debug\A2-Sortir.exe
+C:\Users\AbednegoPad\Documents\Visual Studio 2008\Projects\A2-Sortir\A2-Sortir\obj\Debug\A2-Sortir.xml
+C:\Users\AbednegoPad\Documents\Visual Studio 2008\Projects\A2-Sortir\A2-Sortir\obj\Debug\A2-Sortir.pdb
+C:\Users\AbednegoPad\Documents\Visual Studio 2008\Projects\A2-Sortir\A2-Sortir\bin\Debug\A2-Sortir.exe
+C:\Users\AbednegoPad\Documents\Visual Studio 2008\Projects\A2-Sortir\A2-Sortir\bin\Debug\A2-Sortir.pdb
+C:\Users\AbednegoPad\Documents\Visual Studio 2008\Projects\A2-Sortir\A2-Sortir\bin\Debug\A2-Sortir.xml
+C:\Users\AbednegoPad\Documents\Visual Studio 2008\Projects\A2-Sortir\A2-Sortir\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\AbednegoPad\Documents\Visual Studio 2008\Projects\A2-Sortir\A2-Sortir\obj\Debug\A2_Sortir.Form1.resources
+C:\Users\AbednegoPad\Documents\Visual Studio 2008\Projects\A2-Sortir\A2-Sortir\obj\Debug\A2_Sortir.Resources.resources
+C:\Users\AbednegoPad\Documents\Visual Studio 2008\Projects\A2-Sortir\A2-Sortir\obj\Debug\A2-Sortir.vbproj.GenerateResource.Cache
